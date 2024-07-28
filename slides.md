@@ -12,7 +12,7 @@ keywords:
     - Python
 ---
 
-# Mastering the Zen of Dev Experience {.r-fit-text .semi-filtered data-background-image="images/Chris Linnett Unsplash.jpg"}
+# Mastering the Zen of Dev Experience {.r-fit-text data-background-image="images/Chris Linnett Unsplash.jpg"}
 ### Kubernetes and the Art of Simplicity
 #### Calvin Hendryx-Parker, CTO
 #### Six Feet Up
@@ -22,6 +22,14 @@ keywords:
 ::: notes
 Example Notes
 :::
+
+# The Cat
+
+![](images/mcintosh.png)
+
+# The Dog
+
+![](images/mooshu.png)
 
 # Check it out 🚀
 
@@ -54,7 +62,7 @@ Example Notes
 * No manual commands are required for deployment.
 * It does more! Like the maintenance man on your new home, it actively maintains the state.
 
-# Maybe a slide with a manifest code?
+# Let's Peek at some YAML
 
 # Kubernetes Standardizes Deployment {.r-fit-text .semi-filtered data-background-image="images/Kurt Cotoaga Unsplash.jpg"}
 
@@ -63,12 +71,14 @@ Example Notes
 * Easily switch from local to remote dev environment
 
 # Quick Kubernetes Primer
+
+# Nodes/Services/Deployments/Pods {.r-fit-text}
 ![](images/k8s-node-service-deployment.png)
 
-# Quick Kubernetes Primer
+# Contexts and Clusters
 ![](images/k8s-contexts.png)
 
-# Quick Kubernetes Primer
+# Namespaces Are One Honking Great Idea {.r-fit-text}
 ![](images/k8s-namespaces.png)
 
 # Kubernetes vs Docker-Compose {.r-fit-text .semi-filtered data-background-image="images/Mika Baumeister Unsplash.jpg"}

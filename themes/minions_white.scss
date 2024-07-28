@@ -47,13 +47,13 @@ section.has-dark-background {
 }
 
 .slide-background {
-    filter: grayscale(50%) opacity(20%) blur(0);
+    filter: grayscale(50%) opacity(40%) blur(0);
 
     &.original {
         filter: none;
     }
     &.semi-filtered {
-        filter: grayscale(60%) opacity(40%) blur(0);
+        filter: grayscale(70%) opacity(20%) blur(0);
     }
 }
 
