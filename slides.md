@@ -19,17 +19,13 @@ keywords:
 
 ![](images/PyOhio%20Repo%20QR%20Code.png)
 
-::: notes
-Example Notes
-:::
-
 # The Cat
 
-![](images/mcintosh.png)
+![](images/mcintosh.png){.r-stretch}
 
 # The Dog
 
-![](images/mooshu.png)
+![](images/mooshu.png){.r-stretch}
 
 # Check it out 🚀
 
